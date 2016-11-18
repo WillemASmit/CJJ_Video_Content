@@ -6,4 +6,4 @@
 
 <h2>LaTeX Equation Insertion</h2>
 
-<p>The documentation on LaTeX equations can be found <a href="Material/LaTeXSymbols">here</a>.</p>
+<p>The documentation on LaTeX equations can be found <a href="Material/LaTeXSymbols.pdf">here</a>.</p>
