@@ -7,3 +7,7 @@
 <h2>LaTeX Equation Insertion</h2>
 
 <p>The documentation on LaTeX equations can be found <a href="Material/Latex.pdf">here</a>.</p>
+
+<h2>The Update Macro</h2>
+
+<p>The macro to update all of your sequences can be found <a href="Material/Update_SEQ.bas">here</a>.</p>
